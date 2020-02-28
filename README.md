@@ -29,7 +29,7 @@ python3 segment.py
 
 Evaluation:
 ```
-python3 evalu_color.py
+python3 eval_color.py
 --datadir /home/kyang/Downloads/Mapillary/
 --subset val
 --loadDir ./trained/
