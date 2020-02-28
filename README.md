@@ -9,7 +9,7 @@ Panoramic Annular Semantic Segmentation Dataset with pixel-wise labels (400 imag
 Panoramas captured with an instrumented vehicle (650 images).
 
 [**Streetview Dataset**](https://drive.google.com/file/d/1_tZiYdRCQASJhNiR6MAPC_P_F1EbpEw0/view?usp=sharing)
-Panoramas collected in different cities including New York, Beijing, Shanghai, Changsha, Hangzhou, Huddersfield, Madrid, and Karlsruhe.
+Panoramas collected in different cities including New York, Beijing, Shanghai, Changsha, Hangzhou, Huddersfield, Madrid, Karlsruhe and Sydney.
 
 ## Codes
 Training:
