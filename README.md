@@ -40,3 +40,22 @@ python3 eval_color.py
 --basedir /home/kyang/Downloads/
 --datasets 'MAP' 'IDD20K'
 ```
+
+## Publications
+If you use our code or dataset, please consider referencing the following paper:
+
+**Omnisupervised Omnidirectional Semantic Segmentation.**
+K. Yang, X. Hu, Y. Fang, K. Wang, R. Stiefelhagen.
+IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), September 2020.
+[[**PDF**](http://www.yangkailun.com/publications/tits2020_kailun.pdf)]
+
+```
+@article{yang2020omnisupervised,
+title={Omnisupervised Omnidirectional Semantic Segmentation},
+author={Yang, Kailun and Hu, Xinxin and Fang, Yicheng and Wang, Kaiwei and Stiefelhagen, Rainer},
+journal={IEEE Transactions on Intelligent Transportation Systems},
+year={2020},
+publisher={IEEE}
+}
+```
+
